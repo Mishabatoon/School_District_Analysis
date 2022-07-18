@@ -66,6 +66,8 @@ Thomas High School's overall passing rate was only 65.08% with the 9th graders' 
  - Scores by school type
 
   Charter schools produce significantly higher scores than district scores (90% vs 54%)
+  
+  *Image 6: Scores By School Type*
 ![Scores_By_School_Type](https://raw.githubusercontent.com/Mishabatoon/School_District_Analysis/main/Screenshots/Scores_School_type.png)
 
 
